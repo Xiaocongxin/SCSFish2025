@@ -4,8 +4,8 @@ Dataset
 # Sample example
 ![image](https://github.com/user-attachments/assets/12304041-bf9a-4ad7-8f11-e653f85dc0e0)
 # How to get this datasets
-Please download and fill out the word file :  https://github.com/xiaocongxin/SCSFish2025/blob/main/Test.docx
-Then hand it to zhengfd5@mail.sysu.edu.cn
+Please download and fill out the word file : https://github.com/Xiaocongxin/SCSFish2025/blob/main/Data%20Usage%20Application%20and%20Commitment%20Letter.docx  
+Then submit it to zhengfd5@mail.sysu.edu.cn in PDF format.
 # Links to the source code of the model used in the paper
 https://github.com/lyuwenyu/RT-DETR  
 https://github.com/THU-MIG/yolov10  
