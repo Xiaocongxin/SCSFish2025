@@ -7,10 +7,10 @@ Dataset
 Please download and fill out the word file :  https://github.com/xiaocongxin/SCSFish2025/blob/main/Test.docx
 Then hand it to zhengfd5@mail.sysu.edu.cn
 # Links to the source code of the model used in the paper
-https://github.com/lyuwenyu/RT-DETR
-https://github.com/THU-MIG/yolov10
-https://github.com/bubbliiiing/faster-rcnn-pytorch
-https://github.com/bubbliiiing/ssd-pytorch
+https://github.com/lyuwenyu/RT-DETR  
+https://github.com/THU-MIG/yolov10  
+https://github.com/bubbliiiing/faster-rcnn-pytorch  
+https://github.com/bubbliiiing/ssd-pytorch   
 # Citation
 If you use this dataset, please cite the following works:
 
